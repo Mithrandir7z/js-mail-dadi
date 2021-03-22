@@ -2,11 +2,6 @@
 // Prima di partire a scrivere codice poniamoci qualche domanda: Che ci sia un array da qualche parte? Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
 
-// Math.random();
-
-// Math.nomeVariabile(Math.random() * 6) + 1;
-
-
 //generare 2 numeri in 2 variabili
 var generatoUtente;
 var generatoComputer;

@@ -10,9 +10,9 @@ var emailInserita;
 emailInserita = prompt( "Inserisci la tua email" , "Inserisci: " );
 
 //Scansione dell'array per verificare se l'email è nella tabella
-flag = 0;
+var flag = 0;
 
-for (i = 0; i < emailData.length; i++) {
+for (var i = 0; i < emailData.length; i++) {
     if ( emailInserita == emailData[i] ) {
         flag = 1;
     }
